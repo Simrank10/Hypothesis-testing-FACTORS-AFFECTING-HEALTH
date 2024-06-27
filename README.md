@@ -27,20 +27,20 @@ This project involves statistically analyzing surveyed data to test health-relat
 6. Physical Activity: Does regular workout influence BMI?
 
 ## Key Findings
--➜ Age: Significant variation in BMI with age.
-➜ Diet: Notable differences in BMI based on diet preferences.
-➜ Gender: Significant gender differences in BMI.
-Fruits: Impact of fruit consumption on BMI.
-Sleep: Correlation between sleep duration and BMI.
-Activity: Influence of physical activity on BMI.
+- Age: Significant variation in BMI with age.
+- Diet: Notable differences in BMI based on diet preferences.
+- Gender: Significant gender differences in BMI.
+- Fruits: Impact of fruit consumption on BMI.
+- Sleep: Correlation between sleep duration and BMI.
+- Activity: Influence of physical activity on BMI.
 
 ## Results
 The analysis provided insights into how different lifestyle factors affect BMI. Significant findings were observed for variations in BMI with age, diet, and activity levels.
 
-Conclusion
+## Conclusion
 The project highlights the importance of various lifestyle factors in determining health outcomes. Further research with larger sample sizes is recommended to validate and refine these findings.
 
-Future Work
-Extended Analysis: Include more variables such as stress levels, work environment, and genetic factors.
-Larger Samples: Conduct studies with larger and more diverse populations.
-Interventions: Develop interventions based on findings to promote healthier lifestyles.
+## Future Work
+- Extended Analysis: Include more variables such as stress levels, work environment, and genetic factors.
+- Larger Samples: Conduct studies with larger and more diverse populations.
+- Interventions: Develop interventions based on findings to promote healthier lifestyles.

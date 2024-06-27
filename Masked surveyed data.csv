@@ -1,0 +1,108 @@
+Index,Age,Gender,Height,Weight,BMI,BMI Classification,Profession,Activeness,Bedtime,Sleep Amount,Chronic Disease,Genetic Disease,Name of genetical disease posessed,Workout Preference,Workout Period,Health Insurance,Which health insurance provider are you enrolled with?,Diet preferences,Fruits,Fast Food ,Doctor consultation (Monthly),Healthy considered
+1,24,Male,183,62,18.5,Healthy,Student,2,12:00,6.5,Yes,No,,Never,,No,,Vegetarian,No,1 to 7 times a week,Never,3
+4,18,Female,165,55,20.2,Healthy,Student,2,12:30,7.5,No,No,,Once a week,30,No,,Non-vegetarian,Yes,1 to 7 times a week,More than five times,5
+5,22,Female,142,42.5,21,Healthy,Student,1,11:00,5.5,No,No,,2 to 3 times a week,30,No,,Vegetarian,Yes,1 to 7 times a week,Never,3
+6,34,Female,162,50,19.1,Healthy,Home - maker,1,10:30,7.5,No,No,,Once a week,15,No,,Vegetarian,Yes,1 to 7 times a week,Never,3
+9,26,Male,168,106,37.7,Obese,Other,3,11:00,7.5,No,No,,2 to 3 times a week,60,No,,Non-vegetarian,No,1 to 7 times a week,Three to five times,3
+15,21,Male,183,65,19.4,Healthy,Academic,0,11:55,6.5,No,No,,Everyday,30,No,,Non-vegetarian,No,1 to 7 times a week,Twice,3
+16,21,Male,182,80,24.2,Healthy,Student,2,12:00,7.5,No,No,,Never,,Yes,LIC,Non-vegetarian,Yes,1 to 7 times a week,Never,4
+17,21,Female,151,45,19.7,Healthy,Student,1,02:00,5.5,No,No,,Once a week,30,Yes,Lic,Vegetarian,Yes,1 to 7 times a week,Never,3
+19,27,Female,155,55,22.9,Healthy,Academic,2,11:30,5.5,No,No,,Never,,Yes,Star Health insurance ,Vegetarian,Yes,1 to 7 times a week,Never,3
+20,22,Male,170,55,19,Healthy,Student,3,02:00,6.5,No,Yes,High blood pressure,Everyday,60,Yes,Tata ,Non-vegetarian,Yes,1 to 7 times a week,Once,5
+23,21,Female,155,50,20.8,Healthy,Student,0,11:00,7.5,No,No,,Never,,No,,Non-vegetarian,No,1 to 7 times a week,Never,4
+24,22,Male,180,75,23.1,Healthy,Business ,3,12:00,7.5,No,Yes,None,Everyday,Other,Yes,Star health ,Non-vegetarian,Yes,1 to 7 times a week,Never,4
+25,31,Female,160,67,26.2,Overweight,Employee,0,11:00,7.5,No,No,,Never,,No,,Non-vegetarian,Yes,1 to 7 times a week,Once,5
+26,22,Male,180,105,32.3,Obese,Student,0,06:00,5.5,No,No,,2 to 3 times a week,15,No,,Vegetarian,No,1 to 7 times a week,Never,3
+27,25,Male,178,45,14.2,Underweight,Student,3,12:00,7.5,No,Yes,None,Everyday,60,No,,Non-vegetarian,No,1 to 7 times a week,Never,5
+28,28,Female,152,59,25.4,Overweight,Pharmacist ,1,11:30,6.5,No,No,,Once a week,15,Yes,Lic,Non-vegetarian,No,1 to 7 times a week,Never,5
+29,20,Male,170,70,24.2,Healthy,Student,3,12:00,6.5,No,No,,Once a week,15,No,,Non-vegetarian,No,1 to 7 times a week,Twice,3
+30,21,Male,173,55,18.4,Underweight,Student,1,12:00,6.5,No,No,,Everyday,30,Yes,Ayushman Bharat Yojna,Non-vegetarian,No,1 to 7 times a week,Never,4
+32,27,Male,168,55,19.6,Healthy,Employee,3,11:00,6.5,No,No,,Everyday,90,No,,Non-vegetarian,No,1 to 7 times a week,Never,4
+33,22,Male,170,55,19,Healthy,Employee,0,11:00,6.5,No,No,,4 to 6 times a week,60,Yes,Lic,Non-vegetarian,Yes,1 to 7 times a week,Never,5
+35,27,Male,169,72,25.2,Overweight,Employee,2,11:00,6.5,No,No,,2 to 3 times a week,30,No,,Non-vegetarian,Yes,1 to 7 times a week,Never,4
+36,22,Female,155,90,37.5,Obese,Employee,1,12:00,7.5,No,No,,4 to 6 times a week,30,No,,Vegetarian,No,1 to 7 times a week,Never,3
+37,22,Male,183,68,20.3,Healthy,Student,2,10:00,7.5,No,No,,2 to 3 times a week,60,No,,Non-vegetarian,Yes,1 to 7 times a week,Once,3
+38,22,Male,185,77.81,22.6,Healthy,Student,3,11:00,6.5,No,No,,4 to 6 times a week,90,Yes,LIC,Non-vegetarian,Yes,1 to 7 times a week,Once,5
+39,32,Male,173,69,23.1,Healthy,Employee,2,12:30,4.5,No,No,,Never,,Yes,Star ,Vegetarian,No,1 to 7 times a week,Once,3
+41,26,Male,180,85,26.1,Overweight,Academic,1,01:00,5.5,No,Yes,Stone,2 to 3 times a week,60,Yes,Hdfc ergo,Vegetarian,Yes,1 to 7 times a week,Never,2
+42,29,Female,165,65,23.8,Healthy,Employee,1,12:00,6.5,No,No,,Never,,Yes,Star health ,Vegetarian,No,1 to 7 times a week,Never,3
+43,20,Male,183,57,17,Underweight,Student,2,11:00,7.5,No,No,,Everyday,15,No,,Non-vegetarian,Yes,1 to 7 times a week,Twice,3
+45,21,Male,180,80,24.6,Healthy,Student,2,01:02,5.5,No,No,,2 to 3 times a week,90,Yes,Tata health insurance ,Non-vegetarian,No,1 to 7 times a week,Never,4
+46,22,Female,160,57,22.3,Healthy,Student,3,02:00,4.5,No,No,,4 to 6 times a week,30,No,,Non-vegetarian,No,1 to 7 times a week,Three to five times,3
+47,26,Male,180,90,27.7,Overweight,Employee,2,12:30,7.5,No,Yes,Nothing ,Everyday,90,Yes,Max bupa,Vegetarian,No,1 to 7 times a week,Never,5
+48,20,Male,175,62,20.2,Healthy,Student,0,12:00,7.5,No,No,,Once a week,15,No,,Vegetarian,No,1 to 7 times a week,Never,4
+52,22,Female,159,48,19,Healthy,Student,2,11:00,7.5,No,No,,Once a week,15,Yes,Government ,Vegetarian,No,1 to 7 times a week,Never,4
+53,22,Female,163,52,19.7,Healthy,Student,1,12:00,6.5,No,No,,Never,,No,,Vegetarian,No,1 to 7 times a week,Never,2
+55,22,Female,165,46,16.9,Underweight,Academic,2,01:30,5.5,No,No,,Once a week,15,No,,Non-vegetarian,Yes,1 to 7 times a week,Once,3
+56,22,Male,176,63,20.3,Healthy,Student,2,10:00,6.5,No,No,,Everyday,60,No,,Vegetarian,No,1 to 7 times a week,Once,4
+60,22,Male,177,65,20.7,Healthy,Student,2,12:00,6.5,No,No,,2 to 3 times a week,30,No,,Non-vegetarian,No,1 to 7 times a week,Never,4
+66,22,Male,160,58,22.7,Healthy,Student,3,11:00,5.5,No,No,,Everyday,60,No,,Non-vegetarian,Yes,1 to 7 times a week,Once,3
+67,28,Female,157,60,24.2,Healthy,Accountant,0,12:00,6.5,No,No,,Once a week,30,No,,Non-vegetarian,Yes,1 to 7 times a week,Once,4
+68,21,Female,165,70,25.7,Overweight,Student,2,12:00,7.5,No,No,,Never,,Yes,Reliance ,Vegetarian,No,1 to 7 times a week,Once,2
+70,22,Female,157,72,29,Overweight,Student,1,12:15,6.5,No,No,,Never,,No,,Vegetarian,Yes,1 to 7 times a week,Once,3
+71,22,Female,165,60,22,Healthy,Employee,1,12:00,6.5,No,Yes,No disease,Once a week,15,No,,Vegetarian,Yes,1 to 7 times a week,Once,3
+73,22,Female,168,42,14.9,Underweight,Student,3,03:00,5.5,No,No,,4 to 6 times a week,30,No,,Non-vegetarian,No,1 to 7 times a week,Never,3
+74,22,Female,170,46,15.9,Underweight,Student,3,12:30,4.5,No,No,,Everyday,60,Yes,Medical insurance ,Vegetarian,No,1 to 7 times a week,Twice,3
+76,23,Male,173,70,23.4,Healthy,Employee,3,01:00,7.5,No,No,,4 to 6 times a week,60,Yes,Lic,Non-vegetarian,No,1 to 7 times a week,Never,4
+79,23,Female,147,65,29.9,Overweight,Student,1,11:30,4.5,No,No,,Once a week,15,No,,Non-vegetarian,No,1 to 7 times a week,Once,3
+81,22,Male,173,60,20.1,Healthy,Student,2,01:00,7.5,No,No,,Never,,No,,Non-vegetarian,Yes,1 to 7 times a week,Never,3
+82,23,Female,152,80,34.4,Obese,Student,1,23:00,6.5,No,No,,2 to 3 times a week,30,No,,Vegetarian,Yes,1 to 7 times a week,Once,3
+83,22,Female,157,59,23.8,Healthy,Student,1,03:00,7.5,No,No,,Once a week,15,Yes,ICICI Lombard ,Non-vegetarian,No,1 to 7 times a week,Never,1
+85,27,Female,173,62,20.8,Healthy,Other,2,10:30,7.5,No,No,,Once a week,30,No,,Non-vegetarian,Yes,1 to 7 times a week,Once,4
+87,54,Male,173,80,26.8,Overweight,Employee,0,10:00,6.5,No,No,,Once a week,30,No,,Non-vegetarian,No,1 to 7 times a week,Once,3
+88,27,Male,172,80,27,Overweight,Other,3,09:30,5.5,No,Yes,Blood Sugar,Once a week,60,No,,Non-vegetarian,Yes,1 to 7 times a week,Never,3
+89,19,Male,165,51,18.7,Healthy,Student,2,11:00,4.5,No,No,,Never,,No,,Vegetarian,Yes,1 to 7 times a week,Once,3
+90,24,Male,165,63,23.1,Healthy,Student,3,12:00,6.5,No,No,,Never,,No,,Non-vegetarian,No,1 to 7 times a week,Never,3
+94,22,Female,152,52,22.4,Healthy,Student,2,11:12,6.5,No,No,,2 to 3 times a week,15,No,,Non-vegetarian,No,1 to 7 times a week,Twice,4
+95,24,Male,183,79,23.6,Healthy,Employee,3,10:00,6.5,No,No,,Everyday,90,Yes,bharti exa ,Non-vegetarian,No,1 to 7 times a week,Never,5
+97,24,Female,164,49.5,18.4,Underweight,Employee,1,05:00,6.5,No,No,,Once a week,15,Yes,Bajaj ,Vegetarian,Yes,1 to 7 times a week,Never,3
+98,24,Female,155,47,19.6,Healthy,Dancer,2,11:30,6.5,No,Yes,Diabetes | Heart disease,4 to 6 times a week,30,Yes,lIC,Vegetarian,No,1 to 7 times a week,Once,3
+99,20,Female,152,45,19.4,Healthy,Student,2,08:00,7.5,No,No,,4 to 6 times a week,30,No,,Vegetarian,No,1 to 7 times a week,Once,4
+105,27,Male,175,72,23.4,Healthy,Employee,1,12:00,7.5,No,No,,Never,,No,,Vegetarian,No,1 to 7 times a week,Never,4
+106,23,Male,178,79,24.9,Healthy,Academic,2,02:30,7.5,No,No,,Once a week,30,Yes,LIC,Non-vegetarian,No,1 to 7 times a week,Never,2
+107,24,Male,173,60,20,Healthy,Employee,1,01:30,6.5,No,No,,4 to 6 times a week,60,No,,Vegetarian,Yes,1 to 7 times a week,Never,3
+108,23,Male,168,57,20.3,Healthy,Employee,1,12:30,7.5,No,No,,2 to 3 times a week,30,Yes,New India,Vegetarian,Yes,1 to 7 times a week,Never,3
+21,22,Female,165,75,27.5,Overweight,Employee,1,12:30,7.5,No,No,,Never,,Yes,LIC,Vegetarian,Yes,1 to 7 times a week,Twice,4
+2,17,Female,178,79,24.9,Healthy,Student,0,02:30,7.5,No,No,,Once a week,60,Yes,Don't know,Non-vegetarian,No,1 to 7 times a week,Once,3
+3,18,Female,162,54,20.5,Healthy,Student,1,02:00,5.5,No,No,,2 to 3 times a week,30,No,,Non-vegetarian,Yes,1 to 7 times a week,Once,2
+13,23,Male,175,59,19.2,Healthy,Student,0,11:50,6.5,No,No,,Everyday,30,No,,Non-vegetarian,Yes,1 to 7 times a week,Never,5
+31,27,Male,168,53,18.9,Healthy,Employee,3,10:00,7.5,No,No,,Everyday,60,No,,Vegetarian,Yes,1 to 7 times a week,Never,5
+40,24,Male,183,78,23.3,Healthy,Employee,2,01:30,5.5,No,No,,Never,,Yes,Star health,Non-vegetarian,Yes,1 to 7 times a week,Never,4
+49,25,Male,178,94,29.7,Overweight,Employee,1,02:00,7.5,No,No,,Never,,Yes,Religare Health Care,Vegetarian,No,1 to 7 times a week,Never,5
+50,25,Male,184,80,23.6,Healthy,Employee,1,11:00,7.5,No,No,,2 to 3 times a week,15,Yes,Star,Non-vegetarian,Yes,1 to 7 times a week,Never,3
+51,26,Male,173,61,20.4,Healthy,BUSINESS,0,03:00,4.5,No,No,,Never,,Yes,SBI,Vegetarian,No,1 to 7 times a week,Never,1
+65,25,Male,168,60,21.3,Healthy,Other,3,11:00,7.5,No,Yes,Other,Once a week,30,No,,Vegetarian,No,1 to 7 times a week,Never,2
+78,22,Male,163,54,20.4,Healthy,Student,1,01:00,6.5,No,Yes,Diabetes,Once a week,30,No,,Non-vegetarian,No,1 to 7 times a week,Never,4
+86,19,Female,163,87,32.9,Obese,Student,2,11:00,4.5,No,No,,Never,,No,,Non-vegetarian,Yes,1 to 7 times a week,Once,2
+92,18,Female,160,43,16.8,Underweight,Student,2,12:00,6.5,No,Yes,Diabetes | High blood pressure,Once a week,15,No,,Non-vegetarian,Yes,1 to 7 times a week,Once,3
+93,23,Female,154,72,30.4,Obese,Student,1,05:00,5.5,No,No,,Never,,Yes,LIC life insurance ,Vegetarian,Yes,1 to 7 times a week,Once,2
+7,23,Female,154,52,21.9,Healthy,Employee,2,12:00,7.5,No,No,,2 to 3 times a week,30,No,,Vegetarian,No,Prefer home made food,Once,3
+8,23,Female,157,62,25,Healthy,Employee,3,11:30,6.5,No,No,,4 to 6 times a week,60,No,,Non-vegetarian,No,Prefer home made food,Never,5
+10,20,Male,180,78,24.1,Healthy,Student,1,12:00,7.5,No,No,,4 to 6 times a week,60,Yes,Star health insurance ,Non-vegetarian,No,Prefer home made food,Never,3
+11,20,Female,155,46,19.2,Healthy,Student,1,23:00,6.5,No,No,,Once a week,15,No,,Non-vegetarian,Yes,Prefer home made food,Never,4
+12,48,Male,175,55,18,Underweight,Employee,2,12:00,6.5,No,No,,Never,,Yes,Star health insurance ,Non-vegetarian,No,Prefer home made food,Never,4
+14,22,Male,169,53,18.6,Healthy,Student,1,11:00,7.5,No,No,,Never,,No,,Vegetarian,Yes,Prefer home made food,Never,4
+22,28,Female,160,55,21.5,Healthy,Employee,1,11:30,6.5,Yes,No,,Once a week,15,No,,Non-vegetarian,No,Prefer home made food,Once,3
+34,32,Female,157,53,21.4,Healthy,Employee,1,10:00,6.5,No,No,,2 to 3 times a week,30,No,,Vegetarian,Yes,Prefer home made food,Once,3
+44,20,Male,173,68,22.8,Healthy,Student,0,12:00,5.5,No,No,,Once a week,Other,No,,Vegetarian,Yes,Prefer home made food,Never,3
+54,24,Male,170,65,22.5,Healthy,Employee,3,11:00,6.5,No,No,,4 to 6 times a week,90,Yes,Can not disclosed ??.,Vegetarian,Yes,Prefer home made food,Once,4
+57,22,Male,173,59,19.7,Healthy,Student,3,10:30,8.5,No,No,,4 to 6 times a week,60,Yes,Lic mediclame,Vegetarian,Yes,Prefer home made food,Never,5
+58,54,Female,149,92,41.4,Obese,Home - maker,1,10:00,7.5,No,No,,Never,,No,,Non-vegetarian,Yes,Prefer home made food,Never,3
+59,56,Female,152,65,28,Overweight,Other,2,21:00,7.5,No,No,,Everyday,30,No,,Vegetarian,Yes,Prefer home made food,Never,5
+61,43,Female,163,53,20.1,Healthy,Employee,1,12:00,6.5,No,No,,Everyday,30,No,,Vegetarian,No,Prefer home made food,Never,5
+62,41,Female,157,58,23.4,Healthy,Other,3,11:00,4.5,No,No,,Everyday,30,Yes,starpolicy,Vegetarian,Yes,Prefer home made food,Never,5
+63,50,Female,163,61,23.1,Healthy,Home - maker,3,11:00,7.5,No,No,,2 to 3 times a week,30,Yes,Reliance General Insurance co. Ltd. ,Vegetarian,Yes,Prefer home made food,Once,3
+64,49,Female,157,60,24.2,Healthy,Home - maker,1,10:30,6.5,No,No,,4 to 6 times a week,30,Yes,L I C,Non-vegetarian,Yes,Prefer home made food,More than five times,3
+69,22,Female,159,40,15.8,Underweight,Business ,3,12:00,7.5,No,No,,Once a week,30,No,,Vegetarian,No,Prefer home made food,Once,3
+72,22,Female,152,41,17.7,Underweight,Student,0,10:45,6.5,No,No,,2 to 3 times a week,15,No,,Non-vegetarian,No,Prefer home made food,Once,3
+75,20,Female,164,57,21.2,Healthy,Student,2,11:30,7.5,No,No,,4 to 6 times a week,30,No,,Vegetarian,Yes,Prefer home made food,Never,5
+77,23,Male,180,74,22.8,Healthy,Student,1,12:00,5.5,No,No,,Everyday,60,Yes,Star health insurance ,Non-vegetarian,Yes,Prefer home made food,Never,4
+80,26,Male,172,85,28.7,Overweight,Employee,2,12:00,6.5,No,No,,Never,,Yes,Government  Railways,Non-vegetarian,No,Prefer home made food,Never,2
+84,52,Female,165,70,25.7,Overweight,Home - maker,1,11:00,5.5,No,No,,2 to 3 times a week,30,No,,Non-vegetarian,No,Prefer home made food,Once,3
+91,35,Male,163,75,28.4,Overweight,Employee,3,02:00,4.5,Yes,No,,Once a week,15,Yes,Tgty,Non-vegetarian,No,Prefer home made food,Once,4
+96,22,Female,157,45,18.3,Underweight,Academic,3,01:00,5.5,No,No,,Never,,No,,Vegetarian,No,Prefer home made food,Never,4
+100,37,Male,178,75,23.7,Healthy,Other,3,11:00,6.5,No,No,,4 to 6 times a week,60,No,,Non-vegetarian,Yes,Prefer home made food,Once,5
+101,24,Male,180,70,21.5,Healthy,Employee,2,09:30,7.5,No,No,,Everyday,Other,No,,Vegetarian,Yes,Prefer home made food,Never,5
+102,22,Female,170,61,21.1,Healthy,Employee,0,11:00,6.5,No,Yes,Arthritis,Never,,No,,Vegetarian,Yes,Prefer home made food,Three to five times,3
+103,21,Male,164,63,23.4,Healthy,Student,3,09:30,7.5,No,Yes,there is no disease,Everyday,120,No,,Vegetarian,Yes,Prefer home made food,Never,5
+104,22,Male,174,63,20.8,Healthy,Employee,1,11:30,4.5,No,No,,Everyday,30,Yes,HDFC ERGO,Vegetarian,Yes,Prefer home made food,Never,4

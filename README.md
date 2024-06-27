@@ -40,7 +40,7 @@ The analysis provided insights into how different lifestyle factors affect BMI. 
 ## Conclusion
 The project highlights the importance of various lifestyle factors in determining health outcomes. Further research with larger sample sizes is recommended to validate and refine these findings.
 
-## Future Work
+## Future Scope of work
 - Extended Analysis: Include more variables such as stress levels, work environment, and genetic factors.
 - Larger Samples: Conduct studies with larger and more diverse populations.
 - Interventions: Develop interventions based on findings to promote healthier lifestyles.

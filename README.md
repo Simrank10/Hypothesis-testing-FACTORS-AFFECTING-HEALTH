@@ -1,4 +1,4 @@
-# Hypothesis Testing: Factors Affecting Health
+# Hypothesis Testing - Factors Affecting Health
 
 ## Description
 This project involves statistically analyzing surveyed data to test health-related hypotheses and identify key lifestyle factors impacting health. The analysis aims to uncover patterns and relationships between various lifestyle behaviors and health outcomes.
